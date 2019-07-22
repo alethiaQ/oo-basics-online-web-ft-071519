@@ -10,7 +10,7 @@ attr_reader :brand
 
   def cobble
     @condtion = "new"
-    puts "The shoe has been repaired."
+    puts "Your shoe is as good as new!"
 
   end
 end
